@@ -1,1 +1,5 @@
-
+<bugreport>
+  <do:a, do:b, do:c>
+  <expected:1>
+  <fact:2>
+    </bugreport>
